@@ -1,1 +1,1 @@
-I'm a part-time farmer and a full-time geek.# hello-world
+This repository functions as my programming portfolio.
